@@ -2019,6 +2019,8 @@ MonoBehaviour:
   retry: {fileID: 1199983306}
   playerPlaying: {fileID: 1326759378}
   opponentPlaying: {fileID: 785670544}
+  minThinkingTime: 1
+  maxThinkingTime: 2
 --- !u!1 &1624555670
 GameObject:
   m_ObjectHideFlags: 0
